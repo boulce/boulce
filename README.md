@@ -9,6 +9,4 @@
 2022.09.18 우리코딩페스티벌 장려상  
 2022.08.26 우리코딩페스티벌 예선 통과  
 2022.05.20 CAU e-Advisor 얼마나 써봤니? - 버그를 찾아라! 3등  
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/)
-</p>
+<p align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/)</p>
