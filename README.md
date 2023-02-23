@@ -6,8 +6,8 @@
 2022 11.19 ICPC 서울 지역대회 본 참여  
 2022.10.08 ICPC 서울 지역대회 예선 통과  
 2022 09.27 중앙대학교 2022 SW‧AI전공 코딩경진대회 참여  
-2022.09.18 우리코딩페스티벌 장려상  
-2022.08.26 우리코딩페스티벌 예선 통과  
+2022.09.18 우리 코딩페스티벌 장려상  
+2022.08.26 우리 코딩페스티벌 예선 통과  
 2022.05.20 CAU e-Advisor 얼마나 써봤니? - 버그를 찾아라! 3등  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/)
