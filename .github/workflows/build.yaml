@@ -1,0 +1,16 @@
+name: C CI
+
+on:[push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Build main.c
+      run: gcc main.c -o main.out
+      
+    - name: Run main.out
+      run: ./main.out
