@@ -16,7 +16,6 @@
 2022.08.26 우리 코딩페스티벌 예선 통과  
 2022.05.20 CAU e-Advisor 얼마나 써봤니? - 버그를 찾아라! 3등  
   
-📚 I'm studying  
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">  
+📚 I'm studying  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><imgsrc="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/)
