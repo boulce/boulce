@@ -1,5 +1,5 @@
-# <img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="70" height="70">  
-  
+# <img src="https://github.com/boulce/boulce/assets/83588265/fcda44d6-ba2f-49d9-b5b1-dccf0a1ebca4" width="70" height="70">  
+
 📝 활동  
 2023.03.23        SW마에스트로 제14기 연수생 선발  
 2023.03.08        SW마에스트로 제14기 2차 코딩테스트 통과  
