@@ -1,8 +1,8 @@
 # <img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="50" height="50">  
-
+  
 📝 활동  
 2023.03.23        SW마에스트로 제14기 연수생 선발  
-2023.03.08        SW마에스트로 제14기 2차 코딩테스트 통과    <img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="25" height="25">  
+2023.03.08        SW마에스트로 제14기 2차 코딩테스트 통과  
 2023.02.24        삼성전자 DX부문 23 동계 대학생 S/W 알고리즘 역량 테스트 Professional(Level B) 검정 Pass  
 2023.01 ~ 2023.02 삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료  
 2022.09 ~ 2023.02 중앙대학교 알고리즘 동아리 ChAOS 운영진  
