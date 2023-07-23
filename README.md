@@ -1,5 +1,3 @@
-# 　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://github.com/boulce/boulce/assets/83588265/aff76333-fc9e-47e3-86ce-2d0ba560c383" witdh ="90" height="60">  
-
 📝 활동  
 2023.03.23        SW마에스트로 제14기 연수생 선발  
 2023.03.08        SW마에스트로 제14기 2차 코딩테스트 통과  
@@ -19,6 +17,6 @@
 📚 I'm studying  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">  
   
-⌨️ Problem Solving
+⌨️ Problem Solving  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/) 
-
+# 　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://github.com/boulce/boulce/assets/83588265/aff76333-fc9e-47e3-86ce-2d0ba560c383" witdh ="90" height="60">  
