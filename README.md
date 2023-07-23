@@ -20,4 +20,5 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow">  
   
 ⌨️ Problem Solving  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/)  ![pixel-cat](https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f){: width="50" height="50"}
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/) 
+![pixel-cat](https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f){: width="100" height="100"}
