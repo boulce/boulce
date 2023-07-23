@@ -1,4 +1,4 @@
-# 🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻<img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="50" height="50">
+# <img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="50" height="50">
   
 📝 활동  
 2023.03.23        SW마에스트로 제14기 연수생 선발  
