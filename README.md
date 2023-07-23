@@ -19,4 +19,4 @@
   
 ⌨️ Problem Solving  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/) 
-# 　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://github.com/boulce/boulce/assets/83588265/aff76333-fc9e-47e3-86ce-2d0ba560c383" witdh ="90" height="60">  
+# 　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://github.com/boulce/boulce/assets/83588265/aff76333-fc9e-47e3-86ce-2d0ba560c383" witdh ="150" height="100">  
