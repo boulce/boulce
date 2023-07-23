@@ -21,4 +21,6 @@
   
 ⌨️ Problem Solving  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boulce)](https://solved.ac/boulce/) 
-![pixel-cat](https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f){: width="100" height="100"}
+![pixel-cat](https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f)
+<img src="https://github.com/boulce/boulce/assets/83588265/e27a3b9c-99ab-47af-966c-be61ffd2225f" width="50" height="50">
+
