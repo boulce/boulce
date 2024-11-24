@@ -1,8 +1,8 @@
 # Contributed to...
 * [Spring Framework](https://github.com/spring-projects/spring-framework)<!-- {"preview":"true"} -->
   *  Update scheduling.adoc #33703
-  *  Update scheduling.adoc #33709 [GitHub 링크]
-  *  Update fallback.adoc #33721 [GitHub 링크]
+  *  Update scheduling.adoc #33709
+  *  Update fallback.adoc #33721
 
 * [Spring Security](https://github.com/spring-projects/spring-security)<!-- {"preview":"true"} -->
   * Typo: Update ldap.adoc #14509
